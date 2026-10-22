@@ -1,0 +1,6 @@
+{
+  "name": "智能图片数据提取与 Excel 导出系统",
+  "description": "通过 AI 视觉大模型识别多张图片中的结构化数据（微信聊天记录、表格、单据等），并分别写入同一个 Excel 文件的多个 Sheet 导出，支持剪贴板粘贴与批量管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
